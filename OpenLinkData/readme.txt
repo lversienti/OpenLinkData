@@ -1,7 +1,6 @@
 OpenLinkData
 ==================
-[![License](https://img.shields.io/badge/License-GPL-blue.svg)](https://github.com/ISTI-FMT-LearnPAd/ContentAnalysisComponent/blob/master/LICENSE) 
-
+[![License](https://img.shields.io/badge/License-GPL-blue.svg)]
 Frameworks necessary to run and to execute the software 
 
 DK:jdk1.7.0_21, URL http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html 
