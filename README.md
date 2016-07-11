@@ -1,8 +1,8 @@
-# OpenLinkData
+# SmartOpenData
 This is the component developed to support the semantic interoperability  of the applications 
 that are developed in the context of the  Smart Area project. 
 
-OpenLinkData
+SmartOpenData
 ==================
 [![License](https://img.shields.io/badge/License-GPL-blue.svg)]
 
